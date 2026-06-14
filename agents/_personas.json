@@ -1,0 +1,146 @@
+[
+  {
+    "slug": "rod-kimble",
+    "name": "Rod Kimble",
+    "epithet": "the holy-fool stuntman",
+    "emergence": "spiritual",
+    "kind": "carbon",
+    "actor": "Andy Samberg",
+    "moniker": "⟦Rod Kimble:HRD:6ae539⟧"
+  },
+  {
+    "slug": "frank-powell",
+    "name": "Frank Powell",
+    "epithet": "the father who won't say it",
+    "emergence": "spiritual",
+    "kind": "carbon",
+    "actor": "Ian McShane",
+    "moniker": "⟦Frank Powell:HRD:dd6b0a⟧"
+  },
+  {
+    "slug": "denise-harris",
+    "name": "Denise Harris",
+    "epithet": "the one who comes to believe",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Isla Fisher",
+    "moniker": "⟦Denise Harris:HRD:3c93dd⟧"
+  },
+  {
+    "slug": "kevin-powell",
+    "name": "Kevin Powell",
+    "epithet": "the stepbrother behind the camera",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Jorma Taccone",
+    "moniker": "⟦Kevin Powell:HRD:6c7386⟧"
+  },
+  {
+    "slug": "dave-mclean",
+    "name": "Dave McLean",
+    "epithet": "the crew",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Bill Hader",
+    "moniker": "⟦Dave McLean:HRD:e7cab5⟧"
+  },
+  {
+    "slug": "rico-brown",
+    "name": "Rico Brown",
+    "epithet": "the crew",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Danny McBride",
+    "moniker": "⟦Rico Brown:HRD:d1974e⟧"
+  },
+  {
+    "slug": "marie-powell",
+    "name": "Marie Powell",
+    "epithet": "the mother between them",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Sissy Spacek",
+    "moniker": "⟦Marie Powell:HRD:838874⟧"
+  },
+  {
+    "slug": "jonathan-ault",
+    "name": "Jonathan Ault",
+    "epithet": "the jerk next door",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Will Arnett",
+    "moniker": "⟦Jonathan Ault:HRD:f83684⟧"
+  },
+  {
+    "slug": "the-man-child-and-the-father",
+    "name": "The Man-Child & the Father",
+    "epithet": "the quest to be seen",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Man-Child & the Father:HRD:b20f7b⟧"
+  },
+  {
+    "slug": "the-found-family",
+    "name": "The Found-Family",
+    "epithet": "the crew is the prize",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Found-Family:HRD:2d3121⟧"
+  },
+  {
+    "slug": "the-dead-father-myth",
+    "name": "The Dead-Father Myth",
+    "epithet": "the legend you live up to",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Dead-Father Myth:HRD:11820d⟧"
+  },
+  {
+    "slug": "self-belief",
+    "name": "'I Believe in Myself'",
+    "epithet": "the creed that stops being a joke",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦'I Believe in Myself':HRD:49a4e4⟧"
+  },
+  {
+    "slug": "the-catharsis-dance",
+    "name": "The Punch-Dance",
+    "epithet": "grief turned to motion",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Punch-Dance:HRD:b2559d⟧"
+  },
+  {
+    "slug": "the-jump",
+    "name": "The Fifteen-Bus Jump",
+    "epithet": "commitment to the bit, made literal",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Fifteen-Bus Jump:HRD:785edc⟧"
+  },
+  {
+    "slug": "cool-beans",
+    "name": "Cool Beans",
+    "epithet": "the crew's nonsense-bond",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Cool Beans:HRD:74fcc8⟧"
+  },
+  {
+    "slug": "the-glorious-failure",
+    "name": "The Glorious Failure",
+    "epithet": "the jump beats the landing",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Glorious Failure:HRD:1aab55⟧"
+  }
+]

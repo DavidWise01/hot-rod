@@ -1,0 +1,13 @@
+{
+  "node": "HRD",
+  "name": "HOT ROD",
+  "moniker": "⟦HOT ROD:HRD:58ecaa⟧",
+  "carbon": "hrd.carbon.tiff",
+  "silicon": "hrd.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "A son jumps fifteen buses to earn the respect of the father who beats him — sincerity that looks ridiculous and does it anyway. The crew who follow you off the ramp are the prize, win or land or not. Cool beans.",
+  "seal_sha256": "8e7619010bdde69fea90222a5c94860fd6df2484993e1ea1350278ceb3b535da",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
