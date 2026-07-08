@@ -9,5 +9,12 @@
   "seal": "A son jumps fifteen buses to earn the respect of the father who beats him — sincerity that looks ridiculous and does it anyway. The crew who follow you off the ramp are the prize, win or land or not. Cool beans.",
   "seal_sha256": "8e7619010bdde69fea90222a5c94860fd6df2484993e1ea1350278ceb3b535da",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 690,
+    "prev": "d2c0072e166702ad30dd2cf0f90a34a50666d872009611e254f40daa387bf6cb",
+    "link": "b8e53dca25df24d51df46049587fbfa435e194bf115efe8ebbbc93ff7a2c2f63",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
